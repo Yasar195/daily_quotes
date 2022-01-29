@@ -89,4 +89,16 @@
     *{
         font-size: 20px;
     }
+
+    .outerheading{
+        height: 25%;
+    }
+
+    .content{
+        height: 50%;
+    }
+
+    .footer{
+        height: 25%;
+    }
 }
