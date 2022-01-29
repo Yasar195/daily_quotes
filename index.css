@@ -9,6 +9,15 @@
 #credit{
     color: white;
     font-size: 0.7rem;
+    padding-right: 1%;
+    border-right: 0.3rem solid #8c00af;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    padding-left: 1%;
+    border-left: 0.3rem solid #8c00af;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+
 }
 
 .body{
